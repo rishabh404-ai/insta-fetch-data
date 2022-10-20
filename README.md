@@ -3,6 +3,7 @@
 RUNNING THE SCRIPT :
 
 > pip install -r requirements.txt
+> 
 > run the instagram.py script
 
 RESULT :
